@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ae715e6e0c3e030438354dfb92a79032
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - contentPanel: {instanceID: 0}
+  - messagePrefab: {fileID: 7053344939442380908, guid: b28e5934a75508941883dc5da1993121, type: 3}
+  - scrollRect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

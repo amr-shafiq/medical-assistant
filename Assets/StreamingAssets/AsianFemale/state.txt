@@ -1,0 +1,4 @@
+currentState=waiting_for_name
+patientName=ali
+symptoms=
+disease=Gastroenteritis

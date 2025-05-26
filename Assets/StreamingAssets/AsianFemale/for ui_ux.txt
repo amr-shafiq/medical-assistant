@@ -1,0 +1,18 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class UIManager : MonoBehaviour
+{
+    public Text userInputText;
+    public Text responseText;
+
+    public void DisplayUserInput(string input)
+    {
+        userInputText.text = "You: " + input;
+    }
+
+    public void DisplayResponse(string response)
+    {
+        responseText.text = "Assistant: " + response;
+    }
+}

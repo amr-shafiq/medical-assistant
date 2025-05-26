@@ -1,0 +1,59 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# OS + IDE
+.DS_Store
+Thumbs.db
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Firebase binaries (huge files)
+*.so
+*.dll
+*.unitypackage
+*.bundle
+*.nupkg
+
+# Exclude specific folders (example)
+Assets/Firebase/Plugins/
+Assets/TextMesh Pro/Oculus/
+
+# Auto-generated
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Git
+.git/
+*.swp

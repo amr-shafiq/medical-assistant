@@ -1,0 +1,4 @@
+currentState=waiting_for_name
+patientName=abdul
+symptoms=
+disease=COVID-19
