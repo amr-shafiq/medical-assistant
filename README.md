@@ -1,19 +1,20 @@
-# 🩺 Medical Virtual Assistant (Unity + ASR + TTS)
+# Medical Virtual Assistant (Unity + ASR + TTS)
 
 This is a Unity-based Medical Virtual Assistant developed as part of an academic/final project. It integrates:
 
-- 🎮 Unity for the 3D environment and interaction
-- 🗣️ Python-based ASR (Automatic Speech Recognition)
-- 🔊 Text-to-Speech for voice responses
-- ☁️ Firebase for data handling and storage
-- 📦 Git LFS (for large assets)
+-  Unity for the 3D environment and interaction
+-  Python-based ASR (Automatic Speech Recognition)
+-  Text-to-Speech for voice responses
+-  Firebase for data handling and storage
+-  Git LFS (for large assets)
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Voice-activated interaction with a medical assistant avatar
 - ASR via Python to recognize patient queries
+- Keyword matching symptoms for diagnosing diseases
 - TTS for voice response playback
 - Unity animation and UI handling
 - Firebase authentication and database support
