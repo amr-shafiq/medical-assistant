@@ -21,7 +21,7 @@ This is a Unity-based Medical Virtual Assistant developed as part of an academic
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool           | Purpose                            |
 |----------------|------------------------------------|
@@ -33,9 +33,9 @@ This is a Unity-based Medical Virtual Assistant developed as part of an academic
 
 ---
 
-## 🧰 Setup Instructions
+##  Setup Instructions
 
-### 🔁 Prerequisites
+###  Prerequisites
 
 - Unity (version XYZ)
 - Python 3.x with:
@@ -44,7 +44,7 @@ This is a Unity-based Medical Virtual Assistant developed as part of an academic
 - Git LFS installed from this link: [text](https://git-lfs.github.com)
 
 
-### 🔧 Firebase Setup
+###  Firebase Setup
 
 1. Create a Firebase project in [Firebase Console](https://console.firebase.google.com)
 2. Enable Authentication and Firestore (or Realtime Database)
@@ -60,7 +60,7 @@ This is a Unity-based Medical Virtual Assistant developed as part of an academic
 
 ---
 
-## 🎮 Running the Project
+##  Running the Project
 
 1. Clone the repo:
  ```bash
